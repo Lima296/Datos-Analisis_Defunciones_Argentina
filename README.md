@@ -1,1 +1,1 @@
-[![Descargar INFORME DE EXCEL - REPORTE Y ANÁLISIS](https://img.shields.io/badge/Descargar_Dataset-Excel_.xlsx-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Lima296/Datos-Analisis_Defunciones_Argentina/raw/main/Análisis%20Defunciones%20Argentina.xlsx)
+📥 **[Descargar INFORME de EXCEL, reporte y análisis de los datos.(.xlsx)](https://github.com/Lima296/Datos-Analisis_Defunciones_Argentina/raw/main/Análisis%20Defunciones%20Argentina.xlsx)**
